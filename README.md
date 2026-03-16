@@ -37,6 +37,6 @@ as a general thing, i want all my assets to be free so please dont attempt to se
 
 # Credits
 
-Testers - Trudolph, Mustaro
+Testers - Trudolph, Mustaro, Ryuu
 
 Developer - Frenetic! / FreneticFurry
