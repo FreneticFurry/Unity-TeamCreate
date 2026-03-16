@@ -40,3 +40,7 @@ as a general thing, i want all my assets to be free so please dont attempt to se
 Testers - Trudolph, Mustaro, Ryuu
 
 Developer - Frenetic! / FreneticFurry
+
+# Showcase
+
+https://github.com/user-attachments/assets/425fdfad-4e15-42f6-8c99-ba4f269fdf8f
