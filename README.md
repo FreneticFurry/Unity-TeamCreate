@@ -38,4 +38,5 @@ as a general thing, i want all my assets to be free so please dont attempt to se
 # Credits
 
 Testers - Trudolph, Mustaro
+
 Developer - Frenetic! / FreneticFurry
