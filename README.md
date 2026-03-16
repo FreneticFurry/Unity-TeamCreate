@@ -42,7 +42,7 @@ Developer - Frenetic! / FreneticFurry
 
 # Showcase
 
-- getting videos and screenshots ready -
+- getting videos and screenshots ready...
 
 
 
