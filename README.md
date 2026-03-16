@@ -20,11 +20,11 @@ this is a Peer to Peer asset meaning that you give someone your IP to connect to
 
 at the top you should notice something called Tools click it and you should see a TeamCreate button to get the dashboard window
 
-- Hosting -
+- Hosting
 
 you need to port forward whatever port you want to use for hosting! the default port is set to be "7777" but can be manually changed!
 
-- Joining -
+- Joining
 
 to join you'll need the hosts IP address and the port they're using then you just push connect and if the host has "Private Mode" turned on then you have to wait for them to accept you into the session
 
