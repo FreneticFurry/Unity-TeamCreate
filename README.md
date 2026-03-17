@@ -1,6 +1,4 @@
-# Unity-TeamCreate
-
-as a quick note, this is a preemptive creation of the github for this asset, no assets are provided yet.
+# Unity-TeamCreate (OPEN-BETA)
 
 this is designed to allow people to work together in a unity project as seamlessly as possible!
 
@@ -9,6 +7,8 @@ if there is any problems please make a issue request or if you can fix it then m
 # Warning!
 
 this is a Peer to Peer asset meaning that you give someone your IP to connect to you! so make sure you **trust** the person you're wanting to work with as giving your ip can allow them to DDOS or find out information like roughly what city or region you're in.
+
+this is in beta right now! so there might be bugs! the closed beta has helped find alot of the big ones like an issue with recursion causing unity to crash so save your scene occasionally please!
 
 # Installation
 
@@ -37,9 +37,13 @@ as a general thing, i want all my assets to be free so please dont attempt to se
 
 # Credits
 
-Testers - Trudolph, Mustaro, Ryuu
+- Testers
+Trudolph - built a scene & found various bugs
+Mustaro - built a scene & found some bugs
+Ryuu - built a scene
 
-Developer - Frenetic! / FreneticFurry
+- Developer
+Frenetic! / FreneticFurry
 
 # Showcase
 
