@@ -44,8 +44,9 @@ as a general thing, i want all my assets to be free so please dont attempt to se
 
 - Ryuu - built a scene
 
-- Developer
-Frenetic! / FreneticFurry
+~ Developers
+
+- Frenetic! / FreneticFurry
 
 # Showcase
 
