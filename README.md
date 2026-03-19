@@ -39,7 +39,9 @@ as a general thing, i want all my assets to be free so please dont attempt to se
 
 - Testers
 Trudolph - built a scene & found various bugs
+
 Mustaro - built a scene & found some bugs
+
 Ryuu - built a scene
 
 - Developer
