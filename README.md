@@ -13,7 +13,7 @@ this is in beta right now! so there might be bugs! the closed beta has helped fi
 # Installation
 
 1. download the .UnityPackage from https://github.com/FreneticFurry/Unity-TeamCreate/releases
-2. import into unity
+2. import into unity (should be in the assets folder, untested on if it will work in packages folder but i imagine it would...)
 3. done!
 
 # Usage
