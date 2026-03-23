@@ -42,7 +42,7 @@ as a general thing, i want all my assets to be free so please dont attempt to se
 
 - Mustaro - built a scene & found some bugs
 
-- Ryuu - built a scene
+- Dopper - built a scene
 
 ~ Developers
 
