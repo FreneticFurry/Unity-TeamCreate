@@ -10,6 +10,10 @@ this is a Peer to Peer asset meaning that you give someone your IP to connect to
 
 this is in beta right now! so there might be bugs! the closed beta has helped find alot of the big ones like an issue with recursion causing unity to crash so save your scene occasionally please!
 
+# BUGS!
+
+if YOU come across a bug please report it to be so it can be fixed if you do not tell me anything then how is it meant to get fixed so please create a issue ticket on github to tell me!
+
 # Installation
 
 1. download the .UnityPackage from https://github.com/FreneticFurry/Unity-TeamCreate/releases
