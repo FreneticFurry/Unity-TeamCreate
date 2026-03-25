@@ -12,7 +12,7 @@ this is in beta right now! so there might be bugs! the closed beta has helped fi
 
 # BUGS!
 
-if YOU come across a bug please report it to be so it can be fixed if you do not tell me anything then how is it meant to get fixed so please create a issue ticket on github to tell me!
+if YOU come across a bug please report it to me so it can be fixed if you do not tell me anything then how is it meant to get fixed so please create a issue ticket on github to tell me!
 
 # Installation
 
